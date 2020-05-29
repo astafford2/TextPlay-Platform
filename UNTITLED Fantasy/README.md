@@ -1,4 +1,4 @@
-# A-Team-Untitled-Fantasy
+# TextPlay Platform
 Lindsey Murphy, Cody Miner, Jacob Lanes, and Andrew Stafford.
 Platform used to play multiple text-based games chosen from a single menu
 There are 4 games total.
