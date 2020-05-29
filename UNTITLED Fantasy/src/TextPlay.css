@@ -1,0 +1,26 @@
+.root {
+    -fx-background-color: "black";
+}
+.label {
+    -fx-text-fill: "white";
+}
+.text-field {
+    -fx-background-color: "black";
+    -fx-border-color: "white";
+    -fx-text-fill: "white";
+}
+.text-area {
+    -fx-control-inner-background: #da70d6;
+    -fx-text-fill: "black";
+    -fx-highlight-fill: #da70c6;
+    -fx-highlight-text-fill: "black";
+}
+#invHeader {
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+    -fx-padding: 5,0,0,5;
+}
+#invLabel {
+    -fx-font-size: 14;
+    -fx-padding: 5,0,0,15;
+}
